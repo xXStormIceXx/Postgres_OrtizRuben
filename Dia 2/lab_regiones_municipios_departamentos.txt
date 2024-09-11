@@ -1,0 +1,1124 @@
+region;departamento;codigo_departamento;municipio;codigo_municipio
+Región Caribe;Archipiélago de San Andrés, Providencia y Santa Catalina;88;Providencia;564
+Región Caribe;Archipiélago de San Andrés, Providencia y Santa Catalina;88;San Andrés;001
+Región Caribe;Atlántico;08;Baranoa;078
+Región Caribe;Atlántico;08;Barranquilla;001
+Región Caribe;Atlántico;08;Campo de La Cruz;137
+Región Caribe;Atlántico;08;Candelaria;141
+Región Caribe;Atlántico;08;Galapa;296
+Región Caribe;Atlántico;08;Juan de Acosta;372
+Región Caribe;Atlántico;08;Luruaco;421
+Región Caribe;Atlántico;08;Malambo;433
+Región Caribe;Atlántico;08;Manatí;436
+Región Caribe;Atlántico;08;Palmar de Varela;520
+Región Caribe;Atlántico;08;Piojó;549
+Región Caribe;Atlántico;08;Polonuevo;558
+Región Caribe;Atlántico;08;Ponedera;560
+Región Caribe;Atlántico;08;Puerto Colombia;573
+Región Caribe;Atlántico;08;Repelón;606
+Región Caribe;Atlántico;08;Sabanagrande;634
+Región Caribe;Atlántico;08;Sabanalarga;638
+Región Caribe;Atlántico;08;Santa Lucía;675
+Región Caribe;Atlántico;08;Santo Tomás;685
+Región Caribe;Atlántico;08;Soledad;758
+Región Caribe;Atlántico;08;Suan;770
+Región Caribe;Atlántico;08;Tubará;832
+Región Caribe;Atlántico;08;Usiacurí;849
+Región Caribe;Bolívar;13;Achí;006
+Región Caribe;Bolívar;13;Altos del Rosario;030
+Región Caribe;Bolívar;13;Arenal;042
+Región Caribe;Bolívar;13;Arjona;052
+Región Caribe;Bolívar;13;Arroyohondo;062
+Región Caribe;Bolívar;13;Barranco de Loba;074
+Región Caribe;Bolívar;13;Calamar;140
+Región Caribe;Bolívar;13;Cantagallo;160
+Región Caribe;Bolívar;13;Cartagena;001
+Región Caribe;Bolívar;13;Cicuco;188
+Región Caribe;Bolívar;13;Clemencia;222
+Región Caribe;Bolívar;13;Córdoba;212
+Región Caribe;Bolívar;13;El Carmen de Bolívar;244
+Región Caribe;Bolívar;13;El Guamo;248
+Región Caribe;Bolívar;13;El Peñón;268
+Región Caribe;Bolívar;13;Hatillo de Loba;300
+Región Caribe;Bolívar;13;Magangué;430
+Región Caribe;Bolívar;13;Mahates;433
+Región Caribe;Bolívar;13;Margarita;440
+Región Caribe;Bolívar;13;María la Baja;442
+Región Caribe;Bolívar;13;Mompós;468
+Región Caribe;Bolívar;13;Montecristo;458
+Región Caribe;Bolívar;13;Morales;473
+Región Caribe;Bolívar;13;Norosí;490
+Región Caribe;Bolívar;13;Pinillos;549
+Región Caribe;Bolívar;13;Regidor;580
+Región Caribe;Bolívar;13;Río Viejo;600
+Región Caribe;Bolívar;13;San Cristóbal;620
+Región Caribe;Bolívar;13;San Estanislao;647
+Región Caribe;Bolívar;13;San Fernando;650
+Región Caribe;Bolívar;13;San Jacinto;654
+Región Caribe;Bolívar;13;San Jacinto del Cauca;655
+Región Caribe;Bolívar;13;San Juan Nepomuceno;657
+Región Caribe;Bolívar;13;San Martín de Loba;667
+Región Caribe;Bolívar;13;San Pablo de Borbur;670
+Región Caribe;Bolívar;13;Santa Catalina;673
+Región Caribe;Bolívar;13;Santa Rosa;683
+Región Caribe;Bolívar;13;Santa Rosa del Sur;688
+Región Caribe;Bolívar;13;Simití;744
+Región Caribe;Bolívar;13;Soplaviento;760
+Región Caribe;Bolívar;13;Talaigua Nuevo;780
+Región Caribe;Bolívar;13;Tiquisio;810
+Región Caribe;Bolívar;13;Turbaco;836
+Región Caribe;Bolívar;13;Turbaná;838
+Región Caribe;Bolívar;13;Villanueva;873
+Región Caribe;Bolívar;13;Zambrano;894
+Región Caribe;Cesar;20;Aguachica;011
+Región Caribe;Cesar;20;Agustín Codazzi;013
+Región Caribe;Cesar;20;Astrea;032
+Región Caribe;Cesar;20;Becerril;045
+Región Caribe;Cesar;20;Bosconia;060
+Región Caribe;Cesar;20;Chimichagua;175
+Región Caribe;Cesar;20;Chiriguaná;178
+Región Caribe;Cesar;20;Curumaní;228
+Región Caribe;Cesar;20;El Copey;238
+Región Caribe;Cesar;20;El Paso;250
+Región Caribe;Cesar;20;Gamarra;295
+Región Caribe;Cesar;20;González;310
+Región Caribe;Cesar;20;La Gloria;383
+Región Caribe;Cesar;20;La Jagua de Ibirico;400
+Región Caribe;Cesar;20;La Paz;621
+Región Caribe;Cesar;20;Manaure;443
+Región Caribe;Cesar;20;Pailitas;517
+Región Caribe;Cesar;20;Pelaya;550
+Región Caribe;Cesar;20;Pueblo Bello;570
+Región Caribe;Cesar;20;Río de Oro;614
+Región Caribe;Cesar;20;San Alberto;710
+Región Caribe;Cesar;20;San Diego;750
+Región Caribe;Cesar;20;San Martín;770
+Región Caribe;Cesar;20;Tamalameque;787
+Región Caribe;Cesar;20;Valledupar;001
+Región Caribe;Córdoba;23;Ayapel;068
+Región Caribe;Córdoba;23;Buenavista;079
+Región Caribe;Córdoba;23;Canalete;090
+Región Caribe;Córdoba;23;Cereté;162
+Región Caribe;Córdoba;23;Chimá;168
+Región Caribe;Córdoba;23;Chinú;182
+Región Caribe;Córdoba;23;Ciénaga de Oro;189
+Región Caribe;Córdoba;23;Cotorra;300
+Región Caribe;Córdoba;23;La Apartada;350
+Región Caribe;Córdoba;23;Lorica;417
+Región Caribe;Córdoba;23;Los Córdobas;419
+Región Caribe;Córdoba;23;Momil;464
+Región Caribe;Córdoba;23;Montelíbano;466
+Región Caribe;Córdoba;23;Montería;001
+Región Caribe;Córdoba;23;Moñitos;500
+Región Caribe;Córdoba;23;Planeta Rica;555
+Región Caribe;Córdoba;23;Pueblo Nuevo;570
+Región Caribe;Córdoba;23;Puerto Escondido;574
+Región Caribe;Córdoba;23;Puerto Libertador;580
+Región Caribe;Córdoba;23;Purísima;586
+Región Caribe;Córdoba;23;Sahagún;660
+Región Caribe;Córdoba;23;San Andrés Sotavento;670
+Región Caribe;Córdoba;23;San Antero;672
+Región Caribe;Córdoba;23;San Bernardo del Viento;675
+Región Caribe;Córdoba;23;San Carlos;678
+Región Caribe;Córdoba;23;San José de Uré;682
+Región Caribe;Córdoba;23;San Pelayo;686
+Región Caribe;Córdoba;23;Tierralta;807
+Región Caribe;Córdoba;23;Tuchín;815
+Región Caribe;Córdoba;23;Valencia;855
+Región Caribe;La Guajira;44;Albania;035
+Región Caribe;La Guajira;44;Barrancas;078
+Región Caribe;La Guajira;44;Dibula;090
+Región Caribe;La Guajira;44;Distracción;098
+Región Caribe;La Guajira;44;El Molino;110
+Región Caribe;La Guajira;44;Fonseca;279
+Región Caribe;La Guajira;44;Hatonuevo;378
+Región Caribe;La Guajira;44;La Jagua del Pilar;420
+Región Caribe;La Guajira;44;Maicao;430
+Región Caribe;La Guajira;44;Manaure;560
+Región Caribe;La Guajira;44;Riohacha;001
+Región Caribe;La Guajira;44;San Juan del Cesar;650
+Región Caribe;La Guajira;44;Uribia;847
+Región Caribe;La Guajira;44;Urumita;855
+Región Caribe;La Guajira;44;Villanueva;874
+Región Caribe;Magdalena;47;Algarrobo;030
+Región Caribe;Magdalena;47;Aracataca;053
+Región Caribe;Magdalena;47;Ariguaní;058
+Región Caribe;Magdalena;47;Cerro San Antonio;161
+Región Caribe;Magdalena;47;Chivolo;170
+Región Caribe;Magdalena;47;Ciénaga;189
+Región Caribe;Magdalena;47;Concordia;205
+Región Caribe;Magdalena;47;El Banco;245
+Región Caribe;Magdalena;47;El Piñon;258
+Región Caribe;Magdalena;47;El Retén;268
+Región Caribe;Magdalena;47;Fundación;288
+Región Caribe;Magdalena;47;Guamal;318
+Región Caribe;Magdalena;47;Nueva Granada;460
+Región Caribe;Magdalena;47;Pedraza;541
+Región Caribe;Magdalena;47;Pijiño del Carmen;545
+Región Caribe;Magdalena;47;Pivijay;551
+Región Caribe;Magdalena;47;Plato;555
+Región Caribe;Magdalena;47;Pueblo Viejo;570
+Región Caribe;Magdalena;47;Remolino;605
+Región Caribe;Magdalena;47;Sabanas de San Angel;660
+Región Caribe;Magdalena;47;Salamina;675
+Región Caribe;Magdalena;47;San Sebastián de Buenavista;692
+Región Caribe;Magdalena;47;San Zenón;703
+Región Caribe;Magdalena;47;Santa Ana;707
+Región Caribe;Magdalena;47;Santa Bárbara de Pinto;720
+Región Caribe;Magdalena;47;Santa Marta;001
+Región Caribe;Magdalena;47;Sitionuevo;745
+Región Caribe;Magdalena;47;Tenerife;798
+Región Caribe;Magdalena;47;Zapayán;960
+Región Caribe;Magdalena;47;Zona Bananera;980
+Región Caribe;Sucre;70;Buenavista;110
+Región Caribe;Sucre;70;Caimito;124
+Región Caribe;Sucre;70;Chalán;230
+Región Caribe;Sucre;70;Coloso;204
+Región Caribe;Sucre;70;Corozal;215
+Región Caribe;Sucre;70;Coveñas;221
+Región Caribe;Sucre;70;El Roble;233
+Región Caribe;Sucre;70;Galeras;235
+Región Caribe;Sucre;70;Guaranda;265
+Región Caribe;Sucre;70;La Unión;400
+Región Caribe;Sucre;70;Los Palmitos;418
+Región Caribe;Sucre;70;Majagual;429
+Región Caribe;Sucre;70;Morroa;473
+Región Caribe;Sucre;70;Ovejas;508
+Región Caribe;Sucre;70;Palmito;523
+Región Caribe;Sucre;70;Sampués;670
+Región Caribe;Sucre;70;San Benito Abad;678
+Región Caribe;Sucre;70;San Juan de Betulia;702
+Región Caribe;Sucre;70;San Luis de Sincé;742
+Región Caribe;Sucre;70;San Marcos;708
+Región Caribe;Sucre;70;San Onofre;713
+Región Caribe;Sucre;70;San Pedro;717
+Región Caribe;Sucre;70;Santiago de Tolú;820
+Región Caribe;Sucre;70;Sincelejo;001
+Región Caribe;Sucre;70;Sucre;771
+Región Caribe;Sucre;70;Tolú Viejo;823
+Región Centro Oriente;Bogotá D.C.;11;Bogotá D.C.;001
+Región Centro Oriente;Boyacá;15;Almeida;022
+Región Centro Oriente;Boyacá;15;Aquitania;047
+Región Centro Oriente;Boyacá;15;Arcabuco;051
+Región Centro Oriente;Boyacá;15;Belén;087
+Región Centro Oriente;Boyacá;15;Berbeo;090
+Región Centro Oriente;Boyacá;15;Betéitiva;092
+Región Centro Oriente;Boyacá;15;Boavita;097
+Región Centro Oriente;Boyacá;15;Boyacá;104
+Región Centro Oriente;Boyacá;15;Briceño;106
+Región Centro Oriente;Boyacá;15;Buena Vista;109
+Región Centro Oriente;Boyacá;15;Busbanzá;114
+Región Centro Oriente;Boyacá;15;Caldas;131
+Región Centro Oriente;Boyacá;15;Campohermoso;135
+Región Centro Oriente;Boyacá;15;Cerinza;162
+Región Centro Oriente;Boyacá;15;Chinavita;172
+Región Centro Oriente;Boyacá;15;Chiquinquirá;176
+Región Centro Oriente;Boyacá;15;Chíquiza;232
+Región Centro Oriente;Boyacá;15;Chiscas;180
+Región Centro Oriente;Boyacá;15;Chita;183
+Región Centro Oriente;Boyacá;15;Chitaraque;185
+Región Centro Oriente;Boyacá;15;Chivatá;187
+Región Centro Oriente;Boyacá;15;Chivor;236
+Región Centro Oriente;Boyacá;15;Ciénega;189
+Región Centro Oriente;Boyacá;15;Cómbita;204
+Región Centro Oriente;Boyacá;15;Coper;212
+Región Centro Oriente;Boyacá;15;Corrales;215
+Región Centro Oriente;Boyacá;15;Covarachía;218
+Región Centro Oriente;Boyacá;15;Cubará;223
+Región Centro Oriente;Boyacá;15;Cucaita;224
+Región Centro Oriente;Boyacá;15;Cuítiva;226
+Región Centro Oriente;Boyacá;15;Duitama;238
+Región Centro Oriente;Boyacá;15;El Cocuy;244
+Región Centro Oriente;Boyacá;15;El Espino;248
+Región Centro Oriente;Boyacá;15;Firavitoba;272
+Región Centro Oriente;Boyacá;15;Floresta;276
+Región Centro Oriente;Boyacá;15;Gachantivá;293
+Región Centro Oriente;Boyacá;15;Gameza;296
+Región Centro Oriente;Boyacá;15;Garagoa;299
+Región Centro Oriente;Boyacá;15;Guacamayas;317
+Región Centro Oriente;Boyacá;15;Guateque;322
+Región Centro Oriente;Boyacá;15;Guayatá;325
+Región Centro Oriente;Boyacá;15;Güicán;332
+Región Centro Oriente;Boyacá;15;Iza;362
+Región Centro Oriente;Boyacá;15;Jenesano;367
+Región Centro Oriente;Boyacá;15;Jericó;368
+Región Centro Oriente;Boyacá;15;La Capilla;380
+Región Centro Oriente;Boyacá;15;La Uvita;403
+Región Centro Oriente;Boyacá;15;La Victoria;401
+Región Centro Oriente;Boyacá;15;Labranzagrande;377
+Región Centro Oriente;Boyacá;15;Macanal;425
+Región Centro Oriente;Boyacá;15;Maripí;442
+Región Centro Oriente;Boyacá;15;Miraflores;455
+Región Centro Oriente;Boyacá;15;Mongua;464
+Región Centro Oriente;Boyacá;15;Monguí;466
+Región Centro Oriente;Boyacá;15;Moniquirá;469
+Región Centro Oriente;Boyacá;15;Motavita;476
+Región Centro Oriente;Boyacá;15;Muzo;480
+Región Centro Oriente;Boyacá;15;Nobsa;491
+Región Centro Oriente;Boyacá;15;Nuevo Colón;494
+Región Centro Oriente;Boyacá;15;Oicatá;500
+Región Centro Oriente;Boyacá;15;Otanche;507
+Región Centro Oriente;Boyacá;15;Pachavita;511
+Región Centro Oriente;Boyacá;15;Páez;514
+Región Centro Oriente;Boyacá;15;Paipa;516
+Región Centro Oriente;Boyacá;15;Pajarito;518
+Región Centro Oriente;Boyacá;15;Panqueba;522
+Región Centro Oriente;Boyacá;15;Pauna;531
+Región Centro Oriente;Boyacá;15;Paya;533
+Región Centro Oriente;Boyacá;15;Paz de Río;537
+Región Centro Oriente;Boyacá;15;Pesca;542
+Región Centro Oriente;Boyacá;15;Pisba;550
+Región Centro Oriente;Boyacá;15;Puerto Boyacá;572
+Región Centro Oriente;Boyacá;15;Quípama;580
+Región Centro Oriente;Boyacá;15;Ramiriquí;599
+Región Centro Oriente;Boyacá;15;Ráquira;600
+Región Centro Oriente;Boyacá;15;Rondón;621
+Región Centro Oriente;Boyacá;15;Saboyá;632
+Región Centro Oriente;Boyacá;15;Sáchica;638
+Región Centro Oriente;Boyacá;15;Samacá;646
+Región Centro Oriente;Boyacá;15;San Eduardo;660
+Región Centro Oriente;Boyacá;15;San José de Pare;664
+Región Centro Oriente;Boyacá;15;San Luis de Gaceno;667
+Región Centro Oriente;Boyacá;15;San Mateo;673
+Región Centro Oriente;Boyacá;15;San Miguel de Sema;676
+Región Centro Oriente;Boyacá;15;San Pablo de Borbur;681
+Región Centro Oriente;Boyacá;15;Socha;757
+Región Centro Oriente;Boyacá;15;Santa María;690
+Región Centro Oriente;Boyacá;15;Santa Rosa de Viterbo;693
+Región Centro Oriente;Boyacá;15;Santa Sofía;696
+Región Centro Oriente;Boyacá;15;Santana;686
+Región Centro Oriente;Boyacá;15;Sativanorte;720
+Región Centro Oriente;Boyacá;15;Sativasur;723
+Región Centro Oriente;Boyacá;15;Siachoque;740
+Región Centro Oriente;Boyacá;15;Soatá;753
+Región Centro Oriente;Boyacá;15;Socotá;755
+Región Centro Oriente;Boyacá;15;Sogamoso;759
+Región Centro Oriente;Boyacá;15;Somondoco;761
+Región Centro Oriente;Boyacá;15;Sora;762
+Región Centro Oriente;Boyacá;15;Soracá;764
+Región Centro Oriente;Boyacá;15;Sotaquirá;763
+Región Centro Oriente;Boyacá;15;Susacón;774
+Región Centro Oriente;Boyacá;15;Sutamarchán;776
+Región Centro Oriente;Boyacá;15;Sutatenza;778
+Región Centro Oriente;Boyacá;15;Tasco;790
+Región Centro Oriente;Boyacá;15;Tenza;798
+Región Centro Oriente;Boyacá;15;Tibaná;804
+Región Centro Oriente;Boyacá;15;Tibasosa;806
+Región Centro Oriente;Boyacá;15;Tinjacá;808
+Región Centro Oriente;Boyacá;15;Tipacoque;810
+Región Centro Oriente;Boyacá;15;Toca;814
+Región Centro Oriente;Boyacá;15;Togüí;816
+Región Centro Oriente;Boyacá;15;Tópaga;820
+Región Centro Oriente;Boyacá;15;Tota;822
+Región Centro Oriente;Boyacá;15;Tunja;001
+Región Centro Oriente;Boyacá;15;Tununguá;832
+Región Centro Oriente;Boyacá;15;Turmequé;835
+Región Centro Oriente;Boyacá;15;Tuta;837
+Región Centro Oriente;Boyacá;15;Tutazá;839
+Región Centro Oriente;Boyacá;15;Umbita;842
+Región Centro Oriente;Boyacá;15;Ventaquemada;861
+Región Centro Oriente;Boyacá;15;Villa de Leyva;407
+Región Centro Oriente;Boyacá;15;Viracachá;879
+Región Centro Oriente;Boyacá;15;Zetaquira;897
+Región Centro Oriente;Cundinamarca;25;Agua de Dios;001
+Región Centro Oriente;Cundinamarca;25;Albán;019
+Región Centro Oriente;Cundinamarca;25;Anapoima;035
+Región Centro Oriente;Cundinamarca;25;Anolaima;040
+Región Centro Oriente;Cundinamarca;25;Apulo;599
+Región Centro Oriente;Cundinamarca;25;Arbeláez;053
+Región Centro Oriente;Cundinamarca;25;Beltrán;086
+Región Centro Oriente;Cundinamarca;25;Bituima;095
+Región Centro Oriente;Cundinamarca;25;Bojacá;099
+Región Centro Oriente;Cundinamarca;25;Cabrera;120
+Región Centro Oriente;Cundinamarca;25;Cachipay;123
+Región Centro Oriente;Cundinamarca;25;Cajicá;126
+Región Centro Oriente;Cundinamarca;25;Caparrapí;148
+Región Centro Oriente;Cundinamarca;25;Caqueza;151
+Región Centro Oriente;Cundinamarca;25;Carmen de Carupa;154
+Región Centro Oriente;Cundinamarca;25;Chaguaní;168
+Región Centro Oriente;Cundinamarca;25;Chía;175
+Región Centro Oriente;Cundinamarca;25;Chipaque;178
+Región Centro Oriente;Cundinamarca;25;Choachí;181
+Región Centro Oriente;Cundinamarca;25;Chocontá;183
+Región Centro Oriente;Cundinamarca;25;Cogua;200
+Región Centro Oriente;Cundinamarca;25;Cota;214
+Región Centro Oriente;Cundinamarca;25;Cucunubá;224
+Región Centro Oriente;Cundinamarca;25;El Colegio;245
+Región Centro Oriente;Cundinamarca;25;El Peñón;258
+Región Centro Oriente;Cundinamarca;25;El Rosal;260
+Región Centro Oriente;Cundinamarca;25;Facatativá;269
+Región Centro Oriente;Cundinamarca;25;Fomeque;279
+Región Centro Oriente;Cundinamarca;25;Fosca;281
+Región Centro Oriente;Cundinamarca;25;Funza;286
+Región Centro Oriente;Cundinamarca;25;Fúquene;288
+Región Centro Oriente;Cundinamarca;25;Fusagasugá;290
+Región Centro Oriente;Cundinamarca;25;Gachala;293
+Región Centro Oriente;Cundinamarca;25;Gachancipá;295
+Región Centro Oriente;Cundinamarca;25;Gachetá;297
+Región Centro Oriente;Cundinamarca;25;Gama;299
+Región Centro Oriente;Cundinamarca;25;Girardot;307
+Región Centro Oriente;Cundinamarca;25;Granada;312
+Región Centro Oriente;Cundinamarca;25;Guachetá;317
+Región Centro Oriente;Cundinamarca;25;Guaduas;320
+Región Centro Oriente;Cundinamarca;25;Guasca;322
+Región Centro Oriente;Cundinamarca;25;Guataquí;324
+Región Centro Oriente;Cundinamarca;25;Guatavita;326
+Región Centro Oriente;Cundinamarca;25;Guayabal de Siquima;328
+Región Centro Oriente;Cundinamarca;25;Guayabetal;335
+Región Centro Oriente;Cundinamarca;25;Gutiérrez;339
+Región Centro Oriente;Cundinamarca;25;Jerusalén;368
+Región Centro Oriente;Cundinamarca;25;Junín;372
+Región Centro Oriente;Cundinamarca;25;La Calera;377
+Región Centro Oriente;Cundinamarca;25;La Mesa;386
+Región Centro Oriente;Cundinamarca;25;La Palma;394
+Región Centro Oriente;Cundinamarca;25;La Peña;398
+Región Centro Oriente;Cundinamarca;25;La Vega;402
+Región Centro Oriente;Cundinamarca;25;Lenguazaque;407
+Región Centro Oriente;Cundinamarca;25;Macheta;426
+Región Centro Oriente;Cundinamarca;25;Madrid;430
+Región Centro Oriente;Cundinamarca;25;Manta;436
+Región Centro Oriente;Cundinamarca;25;Medina;438
+Región Centro Oriente;Cundinamarca;25;Mosquera;473
+Región Centro Oriente;Cundinamarca;25;Nariño;483
+Región Centro Oriente;Cundinamarca;25;Nemocón;486
+Región Centro Oriente;Cundinamarca;25;Nilo;488
+Región Centro Oriente;Cundinamarca;25;Nimaima;489
+Región Centro Oriente;Cundinamarca;25;Nocaima;491
+Región Centro Oriente;Cundinamarca;25;Pacho;513
+Región Centro Oriente;Cundinamarca;25;Paime;518
+Región Centro Oriente;Cundinamarca;25;Pandi;524
+Región Centro Oriente;Cundinamarca;25;Paratebueno;530
+Región Centro Oriente;Cundinamarca;25;Pasca;535
+Región Centro Oriente;Cundinamarca;25;Puerto Salgar;572
+Región Centro Oriente;Cundinamarca;25;Pulí;580
+Región Centro Oriente;Cundinamarca;25;Quebradanegra;592
+Región Centro Oriente;Cundinamarca;25;Quetame;594
+Región Centro Oriente;Cundinamarca;25;Quipile;596
+Región Centro Oriente;Cundinamarca;25;Ricaurte;612
+Región Centro Oriente;Cundinamarca;25;San Antonio del Tequendama;645
+Región Centro Oriente;Cundinamarca;25;San Bernardo;649
+Región Centro Oriente;Cundinamarca;25;San Cayetano;653
+Región Centro Oriente;Cundinamarca;25;San Francisco;658
+Región Centro Oriente;Cundinamarca;25;San Juan de Río Seco;662
+Región Centro Oriente;Cundinamarca;25;Sasaima;718
+Región Centro Oriente;Cundinamarca;25;Sesquilé;736
+Región Centro Oriente;Cundinamarca;25;Sibaté;740
+Región Centro Oriente;Cundinamarca;25;Silvania;743
+Región Centro Oriente;Cundinamarca;25;Simijaca;745
+Región Centro Oriente;Cundinamarca;25;Soacha;754
+Región Centro Oriente;Cundinamarca;25;Sopó;758
+Región Centro Oriente;Cundinamarca;25;Subachoque;769
+Región Centro Oriente;Cundinamarca;25;Suesca;772
+Región Centro Oriente;Cundinamarca;25;Supatá;777
+Región Centro Oriente;Cundinamarca;25;Susa;779
+Región Centro Oriente;Cundinamarca;25;Sutatausa;781
+Región Centro Oriente;Cundinamarca;25;Tabio;785
+Región Centro Oriente;Cundinamarca;25;Tausa;793
+Región Centro Oriente;Cundinamarca;25;Tena;797
+Región Centro Oriente;Cundinamarca;25;Tenjo;799
+Región Centro Oriente;Cundinamarca;25;Tibacuy;805
+Región Centro Oriente;Cundinamarca;25;Tibirita;807
+Región Centro Oriente;Cundinamarca;25;Tocaima;815
+Región Centro Oriente;Cundinamarca;25;Tocancipá;817
+Región Centro Oriente;Cundinamarca;25;Topaipí;823
+Región Centro Oriente;Cundinamarca;25;Ubalá;839
+Región Centro Oriente;Cundinamarca;25;Ubaque;841
+Región Centro Oriente;Cundinamarca;25;Une;845
+Región Centro Oriente;Cundinamarca;25;Útica;851
+Región Centro Oriente;Cundinamarca;25;Venecia;506
+Región Centro Oriente;Cundinamarca;25;Vergara;862
+Región Centro Oriente;Cundinamarca;25;Vianí;867
+Región Centro Oriente;Cundinamarca;25;Villa de San Diego de Ubate;843
+Región Centro Oriente;Cundinamarca;25;Villagómez;871
+Región Centro Oriente;Cundinamarca;25;Villapinzón;873
+Región Centro Oriente;Cundinamarca;25;Villeta;875
+Región Centro Oriente;Cundinamarca;25;Viotá;878
+Región Centro Oriente;Cundinamarca;25;Yacopí;885
+Región Centro Oriente;Cundinamarca;25;Zipacón;898
+Región Centro Oriente;Cundinamarca;25;Zipaquirá;899
+Región Centro Oriente;Norte de Santander;54;Abrego;003
+Región Centro Oriente;Norte de Santander;54;Arboledas;051
+Región Centro Oriente;Norte de Santander;54;Bochalema;099
+Región Centro Oriente;Norte de Santander;54;Bucarasica;109
+Región Centro Oriente;Norte de Santander;54;Cachirá;128
+Región Centro Oriente;Norte de Santander;54;Cácota;125
+Región Centro Oriente;Norte de Santander;54;Chinácota;172
+Región Centro Oriente;Norte de Santander;54;Chitagá;174
+Región Centro Oriente;Norte de Santander;54;Convención;206
+Región Centro Oriente;Norte de Santander;54;Cúcuta;001
+Región Centro Oriente;Norte de Santander;54;Cucutilla;223
+Región Centro Oriente;Norte de Santander;54;Durania;239
+Región Centro Oriente;Norte de Santander;54;El Carmen;245
+Región Centro Oriente;Norte de Santander;54;El Tarra;250
+Región Centro Oriente;Norte de Santander;54;El Zulia;261
+Región Centro Oriente;Norte de Santander;54;Gramalote;313
+Región Centro Oriente;Norte de Santander;54;Hacarí;344
+Región Centro Oriente;Norte de Santander;54;Herrán;347
+Región Centro Oriente;Norte de Santander;54;La Esperanza;385
+Región Centro Oriente;Norte de Santander;54;La Playa;398
+Región Centro Oriente;Norte de Santander;54;Labateca;377
+Región Centro Oriente;Norte de Santander;54;Los Patios;405
+Región Centro Oriente;Norte de Santander;54;Lourdes;418
+Región Centro Oriente;Norte de Santander;54;Mutiscua;480
+Región Centro Oriente;Norte de Santander;54;Ocaña;498
+Región Centro Oriente;Norte de Santander;54;Pamplona;518
+Región Centro Oriente;Norte de Santander;54;Pamplonita;520
+Región Centro Oriente;Norte de Santander;54;Puerto Santander;553
+Región Centro Oriente;Norte de Santander;54;Ragonvalia;599
+Región Centro Oriente;Norte de Santander;54;Salazar;660
+Región Centro Oriente;Norte de Santander;54;San Calixto;670
+Región Centro Oriente;Norte de Santander;54;San Cayetano;673
+Región Centro Oriente;Norte de Santander;54;Santiago;680
+Región Centro Oriente;Norte de Santander;54;Sardinata;720
+Región Centro Oriente;Norte de Santander;54;Silos;743
+Región Centro Oriente;Norte de Santander;54;Teorama;800
+Región Centro Oriente;Norte de Santander;54;Tibú;810
+Región Centro Oriente;Norte de Santander;54;Toledo;820
+Región Centro Oriente;Norte de Santander;54;Villa Caro;871
+Región Centro Oriente;Norte de Santander;54;Villa del Rosario;874
+Región Centro Oriente;Santander;68;Aguada;013
+Región Centro Oriente;Santander;68;Albania;020
+Región Centro Oriente;Santander;68;Aratoca;051
+Región Centro Oriente;Santander;68;Barbosa;077
+Región Centro Oriente;Santander;68;Barichara;079
+Región Centro Oriente;Santander;68;Barrancabermeja;081
+Región Centro Oriente;Santander;68;Betulia;092
+Región Centro Oriente;Santander;68;Bolívar;101
+Región Centro Oriente;Santander;68;Bucaramanga;001
+Región Centro Oriente;Santander;68;Cabrera;121
+Región Centro Oriente;Santander;68;California;132
+Región Centro Oriente;Santander;68;Capitanejo;147
+Región Centro Oriente;Santander;68;Carcasí;152
+Región Centro Oriente;Santander;68;Cepitá;160
+Región Centro Oriente;Santander;68;Cerrito;162
+Región Centro Oriente;Santander;68;Charalá;167
+Región Centro Oriente;Santander;68;Charta;169
+Región Centro Oriente;Santander;68;Chimá;176
+Región Centro Oriente;Santander;68;Chipatá;179
+Región Centro Oriente;Santander;68;Cimitarra;190
+Región Centro Oriente;Santander;68;Concepción;207
+Región Centro Oriente;Santander;68;Confines;209
+Región Centro Oriente;Santander;68;Contratación;211
+Región Centro Oriente;Santander;68;Coromoro;217
+Región Centro Oriente;Santander;68;Curití;229
+Región Centro Oriente;Santander;68;El Carmen de Chucurí;235
+Región Centro Oriente;Santander;68;El Guacamayo;245
+Región Centro Oriente;Santander;68;El Peñón;250
+Región Centro Oriente;Santander;68;El Playón;255
+Región Centro Oriente;Santander;68;Encino;264
+Región Centro Oriente;Santander;68;Enciso;266
+Región Centro Oriente;Santander;68;Florián;271
+Región Centro Oriente;Santander;68;Floridablanca;276
+Región Centro Oriente;Santander;68;Galán;296
+Región Centro Oriente;Santander;68;Gambita;298
+Región Centro Oriente;Santander;68;Girón;307
+Región Centro Oriente;Santander;68;Guaca;318
+Región Centro Oriente;Santander;68;Guadalupe;320
+Región Centro Oriente;Santander;68;Guapotá;322
+Región Centro Oriente;Santander;68;Guavatá;324
+Región Centro Oriente;Santander;68;Güepsa;327
+Región Centro Oriente;Santander;68;Hato;344
+Región Centro Oriente;Santander;68;Jesús María;368
+Región Centro Oriente;Santander;68;Jordán;370
+Región Centro Oriente;Santander;68;La Belleza;377
+Región Centro Oriente;Santander;68;La Paz;397
+Región Centro Oriente;Santander;68;Landázuri;385
+Región Centro Oriente;Santander;68;Lebríja;406
+Región Centro Oriente;Santander;68;Los Santos;418
+Región Centro Oriente;Santander;68;Macaravita;425
+Región Centro Oriente;Santander;68;Málaga;432
+Región Centro Oriente;Santander;68;Matanza;444
+Región Centro Oriente;Santander;68;Mogotes;464
+Región Centro Oriente;Santander;68;Molagavita;468
+Región Centro Oriente;Santander;68;Ocamonte;498
+Región Centro Oriente;Santander;68;Oiba;500
+Región Centro Oriente;Santander;68;Onzaga;502
+Región Centro Oriente;Santander;68;Palmar;522
+Región Centro Oriente;Santander;68;Palmas del Socorro;524
+Región Centro Oriente;Santander;68;Páramo;533
+Región Centro Oriente;Santander;68;Piedecuesta;547
+Región Centro Oriente;Santander;68;Pinchote;549
+Región Centro Oriente;Santander;68;Puente Nacional;572
+Región Centro Oriente;Santander;68;Puerto Parra;573
+Región Centro Oriente;Santander;68;Puerto Wilches;575
+Región Centro Oriente;Santander;68;Rionegro;615
+Región Centro Oriente;Santander;68;Sabana de Torres;655
+Región Centro Oriente;Santander;68;San Andrés;669
+Región Centro Oriente;Santander;68;San Benito;673
+Región Centro Oriente;Santander;68;San Gil;679
+Región Centro Oriente;Santander;68;San Joaquín;682
+Región Centro Oriente;Santander;68;San José de Miranda;684
+Región Centro Oriente;Santander;68;San Miguel;686
+Región Centro Oriente;Santander;68;San Vicente de Chucurí;689
+Región Centro Oriente;Santander;68;Santa Bárbara;705
+Región Centro Oriente;Santander;68;Santa Helena del Opón;720
+Región Centro Oriente;Santander;68;Simacota;745
+Región Centro Oriente;Santander;68;Socorro;755
+Región Centro Oriente;Santander;68;Suaita;770
+Región Centro Oriente;Santander;68;Sucre;773
+Región Centro Oriente;Santander;68;Suratá;780
+Región Centro Oriente;Santander;68;Tona;820
+Región Centro Oriente;Santander;68;Valle de San José;855
+Región Centro Oriente;Santander;68;Vélez;861
+Región Centro Oriente;Santander;68;Vetas;867
+Región Centro Oriente;Santander;68;Villanueva;872
+Región Centro Oriente;Santander;68;Zapatoca;895
+Región Centro Sur;Amazonas;91;El Encanto;263
+Región Centro Sur;Amazonas;91;La Chorrera;405
+Región Centro Sur;Amazonas;91;La Pedrera;407
+Región Centro Sur;Amazonas;91;La Victoria;430
+Región Centro Sur;Amazonas;91;Leticia;001
+Región Centro Sur;Amazonas;91;Miriti Paraná;460
+Región Centro Sur;Amazonas;91;Puerto Alegría;530
+Región Centro Sur;Amazonas;91;Puerto Arica;536
+Región Centro Sur;Amazonas;91;Puerto Nariño;540
+Región Centro Sur;Amazonas;91;Puerto Santander;669
+Región Centro Sur;Amazonas;91;Tarapacá;798
+Región Centro Sur;Caquetá;18;Albania;029
+Región Centro Sur;Caquetá;18;Belén de Los Andaquies;094
+Región Centro Sur;Caquetá;18;Cartagena del Chairá;150
+Región Centro Sur;Caquetá;18;Curillo;205
+Región Centro Sur;Caquetá;18;El Doncello;247
+Región Centro Sur;Caquetá;18;El Paujil;256
+Región Centro Sur;Caquetá;18;Florencia;001
+Región Centro Sur;Caquetá;18;La Montañita;410
+Región Centro Sur;Caquetá;18;Milán;460
+Región Centro Sur;Caquetá;18;Morelia;479
+Región Centro Sur;Caquetá;18;Puerto Rico;592
+Región Centro Sur;Caquetá;18;San José del Fragua;610
+Región Centro Sur;Caquetá;18;San Vicente del Caguán;753
+Región Centro Sur;Caquetá;18;Solano;756
+Región Centro Sur;Caquetá;18;Solita;785
+Región Centro Sur;Caquetá;18;Valparaíso;860
+Región Centro Sur;Huila;41;Acevedo;006
+Región Centro Sur;Huila;41;Agrado;013
+Región Centro Sur;Huila;41;Aipe;016
+Región Centro Sur;Huila;41;Algeciras;020
+Región Centro Sur;Huila;41;Altamira;026
+Región Centro Sur;Huila;41;Baraya;078
+Región Centro Sur;Huila;41;Campoalegre;132
+Región Centro Sur;Huila;41;Colombia;206
+Región Centro Sur;Huila;41;Elías;244
+Región Centro Sur;Huila;41;Garzón;298
+Región Centro Sur;Huila;41;Gigante;306
+Región Centro Sur;Huila;41;Guadalupe;319
+Región Centro Sur;Huila;41;Hobo;349
+Región Centro Sur;Huila;41;Iquira;357
+Región Centro Sur;Huila;41;Isnos;359
+Región Centro Sur;Huila;41;La Argentina;378
+Región Centro Sur;Huila;41;La Plata;396
+Región Centro Sur;Huila;41;Nátaga;483
+Región Centro Sur;Huila;41;Neiva;001
+Región Centro Sur;Huila;41;Oporapa;503
+Región Centro Sur;Huila;41;Paicol;518
+Región Centro Sur;Huila;41;Palermo;524
+Región Centro Sur;Huila;41;Palestina;530
+Región Centro Sur;Huila;41;Pital;548
+Región Centro Sur;Huila;41;Pitalito;551
+Región Centro Sur;Huila;41;Rivera;615
+Región Centro Sur;Huila;41;Saladoblanco;660
+Región Centro Sur;Huila;41;San Agustín;668
+Región Centro Sur;Huila;41;Santa María;676
+Región Centro Sur;Huila;41;Suaza;770
+Región Centro Sur;Huila;41;Tarqui;791
+Región Centro Sur;Huila;41;Tello;799
+Región Centro Sur;Huila;41;Teruel;801
+Región Centro Sur;Huila;41;Tesalia;797
+Región Centro Sur;Huila;41;Timaná;807
+Región Centro Sur;Huila;41;Villavieja;872
+Región Centro Sur;Huila;41;Yaguará;885
+Región Centro Sur;Putumayo;86;Colón;219
+Región Centro Sur;Putumayo;86;Leguízamo;573
+Región Centro Sur;Putumayo;86;Mocoa;001
+Región Centro Sur;Putumayo;86;Orito;320
+Región Centro Sur;Putumayo;86;Puerto Asís;568
+Región Centro Sur;Putumayo;86;Puerto Caicedo;569
+Región Centro Sur;Putumayo;86;Puerto Guzmán;571
+Región Centro Sur;Putumayo;86;San Francisco;755
+Región Centro Sur;Putumayo;86;San Miguel;757
+Región Centro Sur;Putumayo;86;Santiago;760
+Región Centro Sur;Putumayo;86;Sibundoy;749
+Región Centro Sur;Putumayo;86;Valle de Guamez;865
+Región Centro Sur;Putumayo;86;Villagarzón;885
+Región Centro Sur;Tolima;73;Alpujarra;024
+Región Centro Sur;Tolima;73;Alvarado;026
+Región Centro Sur;Tolima;73;Ambalema;030
+Región Centro Sur;Tolima;73;Anzoátegui;043
+Región Centro Sur;Tolima;73;Armero;055
+Región Centro Sur;Tolima;73;Ataco;067
+Región Centro Sur;Tolima;73;Cajamarca;124
+Región Centro Sur;Tolima;73;Carmen de Apicala;148
+Región Centro Sur;Tolima;73;Casabianca;152
+Región Centro Sur;Tolima;73;Chaparral;168
+Región Centro Sur;Tolima;73;Coello;200
+Región Centro Sur;Tolima;73;Coyaima;217
+Región Centro Sur;Tolima;73;Cunday;226
+Región Centro Sur;Tolima;73;Dolores;236
+Región Centro Sur;Tolima;73;Espinal;268
+Región Centro Sur;Tolima;73;Falan;270
+Región Centro Sur;Tolima;73;Flandes;275
+Región Centro Sur;Tolima;73;Fresno;283
+Región Centro Sur;Tolima;73;Guamo;319
+Región Centro Sur;Tolima;73;Herveo;347
+Región Centro Sur;Tolima;73;Honda;349
+Región Centro Sur;Tolima;73;Ibagué;001
+Región Centro Sur;Tolima;73;Icononzo;352
+Región Centro Sur;Tolima;73;Lérida;408
+Región Centro Sur;Tolima;73;Líbano;411
+Región Centro Sur;Tolima;73;Mariquita;443
+Región Centro Sur;Tolima;73;Melgar;449
+Región Centro Sur;Tolima;73;Murillo;461
+Región Centro Sur;Tolima;73;Natagaima;483
+Región Centro Sur;Tolima;73;Ortega;504
+Región Centro Sur;Tolima;73;Palocabildo;520
+Región Centro Sur;Tolima;73;Piedras;547
+Región Centro Sur;Tolima;73;Planadas;555
+Región Centro Sur;Tolima;73;Prado;563
+Región Centro Sur;Tolima;73;Purificación;585
+Región Centro Sur;Tolima;73;Rio Blanco;616
+Región Centro Sur;Tolima;73;Roncesvalles;622
+Región Centro Sur;Tolima;73;Rovira;624
+Región Centro Sur;Tolima;73;Saldaña;671
+Región Centro Sur;Tolima;73;San Antonio;675
+Región Centro Sur;Tolima;73;San Luis;678
+Región Centro Sur;Tolima;73;Santa Isabel;686
+Región Centro Sur;Tolima;73;Suárez;770
+Región Centro Sur;Tolima;73;Valle de San Juan;854
+Región Centro Sur;Tolima;73;Venadillo;861
+Región Centro Sur;Tolima;73;Villahermosa;870
+Región Centro Sur;Tolima;73;Villarrica;873
+Región Eje Cafetero - Antioquia;Antioquia;05;Abejorral;002
+Región Eje Cafetero - Antioquia;Antioquia;05;Abriaquí;004
+Región Eje Cafetero - Antioquia;Antioquia;05;Alejandría;021
+Región Eje Cafetero - Antioquia;Antioquia;05;Amagá;030
+Región Eje Cafetero - Antioquia;Antioquia;05;Amalfi;031
+Región Eje Cafetero - Antioquia;Antioquia;05;Andes;034
+Región Eje Cafetero - Antioquia;Antioquia;05;Angelópolis;036
+Región Eje Cafetero - Antioquia;Antioquia;05;Angostura;038
+Región Eje Cafetero - Antioquia;Antioquia;05;Anorí;040
+Región Eje Cafetero - Antioquia;Antioquia;05;Anza;044
+Región Eje Cafetero - Antioquia;Antioquia;05;Apartadó;045
+Región Eje Cafetero - Antioquia;Antioquia;05;Arboletes;051
+Región Eje Cafetero - Antioquia;Antioquia;05;Argelia;055
+Región Eje Cafetero - Antioquia;Antioquia;05;Armenia;059
+Región Eje Cafetero - Antioquia;Antioquia;05;Barbosa;079
+Región Eje Cafetero - Antioquia;Antioquia;05;Bello;088
+Región Eje Cafetero - Antioquia;Antioquia;05;Belmira;086
+Región Eje Cafetero - Antioquia;Antioquia;05;Betania;091
+Región Eje Cafetero - Antioquia;Antioquia;05;Betulia;093
+Región Eje Cafetero - Antioquia;Antioquia;05;Briceño;107
+Región Eje Cafetero - Antioquia;Antioquia;05;Buriticá;113
+Región Eje Cafetero - Antioquia;Antioquia;05;Cáceres;120
+Región Eje Cafetero - Antioquia;Antioquia;05;Caicedo;125
+Región Eje Cafetero - Antioquia;Antioquia;05;Caldas;129
+Región Eje Cafetero - Antioquia;Antioquia;05;Campamento;134
+Región Eje Cafetero - Antioquia;Antioquia;05;Cañasgordas;138
+Región Eje Cafetero - Antioquia;Antioquia;05;Caracolí;142
+Región Eje Cafetero - Antioquia;Antioquia;05;Caramanta;145
+Región Eje Cafetero - Antioquia;Antioquia;05;Carepa;147
+Región Eje Cafetero - Antioquia;Antioquia;05;Carolina;150
+Región Eje Cafetero - Antioquia;Antioquia;05;Caucasia;154
+Región Eje Cafetero - Antioquia;Antioquia;05;Chigorodó;172
+Región Eje Cafetero - Antioquia;Antioquia;05;Cisneros;190
+Región Eje Cafetero - Antioquia;Antioquia;05;Ciudad Bolívar;101
+Región Eje Cafetero - Antioquia;Antioquia;05;Cocorná;197
+Región Eje Cafetero - Antioquia;Antioquia;05;Concepción;206
+Región Eje Cafetero - Antioquia;Antioquia;05;Concordia;209
+Región Eje Cafetero - Antioquia;Antioquia;05;Copacabana;212
+Región Eje Cafetero - Antioquia;Antioquia;05;Dabeiba;234
+Región Eje Cafetero - Antioquia;Antioquia;05;Don Matías;237
+Región Eje Cafetero - Antioquia;Antioquia;05;Ebéjico;240
+Región Eje Cafetero - Antioquia;Antioquia;05;El Bagre;250
+Región Eje Cafetero - Antioquia;Antioquia;05;El Carmen de Viboral;148
+Región Eje Cafetero - Antioquia;Antioquia;05;El Santuario;697
+Región Eje Cafetero - Antioquia;Antioquia;05;Entrerrios;264
+Región Eje Cafetero - Antioquia;Antioquia;05;Envigado;266
+Región Eje Cafetero - Antioquia;Antioquia;05;Fredonia;282
+Región Eje Cafetero - Antioquia;Antioquia;05;Frontino;284
+Región Eje Cafetero - Antioquia;Antioquia;05;Giraldo;306
+Región Eje Cafetero - Antioquia;Antioquia;05;Girardota;308
+Región Eje Cafetero - Antioquia;Antioquia;05;Gómez Plata;310
+Región Eje Cafetero - Antioquia;Antioquia;05;Granada;313
+Región Eje Cafetero - Antioquia;Antioquia;05;Guadalupe;315
+Región Eje Cafetero - Antioquia;Antioquia;05;Guarne;318
+Región Eje Cafetero - Antioquia;Antioquia;05;Guatapé;321
+Región Eje Cafetero - Antioquia;Antioquia;05;Heliconia;347
+Región Eje Cafetero - Antioquia;Antioquia;05;Hispania;353
+Región Eje Cafetero - Antioquia;Antioquia;05;Itagui;360
+Región Eje Cafetero - Antioquia;Antioquia;05;Ituango;361
+Región Eje Cafetero - Antioquia;Antioquia;05;Jardín;364
+Región Eje Cafetero - Antioquia;Antioquia;05;Jericó;368
+Región Eje Cafetero - Antioquia;Antioquia;05;La Ceja;376
+Región Eje Cafetero - Antioquia;Antioquia;05;La Estrella;380
+Región Eje Cafetero - Antioquia;Antioquia;05;La Pintada;390
+Región Eje Cafetero - Antioquia;Antioquia;05;La Unión;400
+Región Eje Cafetero - Antioquia;Antioquia;05;Liborina;411
+Región Eje Cafetero - Antioquia;Antioquia;05;Maceo;425
+Región Eje Cafetero - Antioquia;Antioquia;05;Marinilla;440
+Región Eje Cafetero - Antioquia;Antioquia;05;Medellín;001
+Región Eje Cafetero - Antioquia;Antioquia;05;Montebello;467
+Región Eje Cafetero - Antioquia;Antioquia;05;Murindó;475
+Región Eje Cafetero - Antioquia;Antioquia;05;Mutatá;480
+Región Eje Cafetero - Antioquia;Antioquia;05;Nariño;483
+Región Eje Cafetero - Antioquia;Antioquia;05;Nechí;495
+Región Eje Cafetero - Antioquia;Antioquia;05;Necoclí;490
+Región Eje Cafetero - Antioquia;Antioquia;05;Olaya;501
+Región Eje Cafetero - Antioquia;Antioquia;05;Peñol;541
+Región Eje Cafetero - Antioquia;Antioquia;05;Peque;543
+Región Eje Cafetero - Antioquia;Antioquia;05;Pueblorrico;576
+Región Eje Cafetero - Antioquia;Antioquia;05;Puerto Berrío;579
+Región Eje Cafetero - Antioquia;Antioquia;05;Puerto Nare;585
+Región Eje Cafetero - Antioquia;Antioquia;05;Puerto Triunfo;591
+Región Eje Cafetero - Antioquia;Antioquia;05;Remedios;604
+Región Eje Cafetero - Antioquia;Antioquia;05;Retiro;607
+Región Eje Cafetero - Antioquia;Antioquia;05;Rionegro;615
+Región Eje Cafetero - Antioquia;Antioquia;05;Sabanalarga;628
+Región Eje Cafetero - Antioquia;Antioquia;05;Sabaneta;631
+Región Eje Cafetero - Antioquia;Antioquia;05;Salgar;642
+Región Eje Cafetero - Antioquia;Antioquia;05;San Andrés de Cuerquía;647
+Región Eje Cafetero - Antioquia;Antioquia;05;San Carlos;649
+Región Eje Cafetero - Antioquia;Antioquia;05;San Francisco;652
+Región Eje Cafetero - Antioquia;Antioquia;05;San Jerónimo;656
+Región Eje Cafetero - Antioquia;Antioquia;05;San José de La Montaña;658
+Región Eje Cafetero - Antioquia;Antioquia;05;San Juan de Urabá;659
+Región Eje Cafetero - Antioquia;Antioquia;05;San Luis;660
+Región Eje Cafetero - Antioquia;Antioquia;05;San Pedro;664
+Región Eje Cafetero - Antioquia;Antioquia;05;San Pedro de Uraba;665
+Región Eje Cafetero - Antioquia;Antioquia;05;San Rafael;667
+Región Eje Cafetero - Antioquia;Antioquia;05;San Roque;670
+Región Eje Cafetero - Antioquia;Antioquia;05;San Vicente;674
+Región Eje Cafetero - Antioquia;Antioquia;05;Santa Bárbara;679
+Región Eje Cafetero - Antioquia;Antioquia;05;Santa Rosa de Osos;686
+Región Eje Cafetero - Antioquia;Antioquia;05;Santafé de Antioquia;042
+Región Eje Cafetero - Antioquia;Antioquia;05;Santo Domingo;690
+Región Eje Cafetero - Antioquia;Antioquia;05;Segovia;736
+Región Eje Cafetero - Antioquia;Antioquia;05;Sonsón;756
+Región Eje Cafetero - Antioquia;Antioquia;05;Sopetrán;761
+Región Eje Cafetero - Antioquia;Antioquia;05;Támesis;789
+Región Eje Cafetero - Antioquia;Antioquia;05;Tarazá;790
+Región Eje Cafetero - Antioquia;Antioquia;05;Tarso;792
+Región Eje Cafetero - Antioquia;Antioquia;05;Titiribí;809
+Región Eje Cafetero - Antioquia;Antioquia;05;Toledo;819
+Región Eje Cafetero - Antioquia;Antioquia;05;Turbo;837
+Región Eje Cafetero - Antioquia;Antioquia;05;Uramita;842
+Región Eje Cafetero - Antioquia;Antioquia;05;Urrao;847
+Región Eje Cafetero - Antioquia;Antioquia;05;Valdivia;854
+Región Eje Cafetero - Antioquia;Antioquia;05;Valparaíso;856
+Región Eje Cafetero - Antioquia;Antioquia;05;Vegachí;858
+Región Eje Cafetero - Antioquia;Antioquia;05;Venecia;861
+Región Eje Cafetero - Antioquia;Antioquia;05;Vigía del Fuerte;873
+Región Eje Cafetero - Antioquia;Antioquia;05;Yalí;885
+Región Eje Cafetero - Antioquia;Antioquia;05;Yarumal;887
+Región Eje Cafetero - Antioquia;Antioquia;05;Yolombó;890
+Región Eje Cafetero - Antioquia;Antioquia;05;Yondó;893
+Región Eje Cafetero - Antioquia;Antioquia;05;Zaragoza;895
+Región Eje Cafetero - Antioquia;Caldas;17;Aguadas;013
+Región Eje Cafetero - Antioquia;Caldas;17;Anserma;042
+Región Eje Cafetero - Antioquia;Caldas;17;Aranzazu;050
+Región Eje Cafetero - Antioquia;Caldas;17;Belalcázar;088
+Región Eje Cafetero - Antioquia;Caldas;17;Chinchiná;174
+Región Eje Cafetero - Antioquia;Caldas;17;Filadelfia;272
+Región Eje Cafetero - Antioquia;Caldas;17;La Dorada;380
+Región Eje Cafetero - Antioquia;Caldas;17;La Merced;388
+Región Eje Cafetero - Antioquia;Caldas;17;Manizales;001
+Región Eje Cafetero - Antioquia;Caldas;17;Manzanares;433
+Región Eje Cafetero - Antioquia;Caldas;17;Marmato;442
+Región Eje Cafetero - Antioquia;Caldas;17;Marquetalia;444
+Región Eje Cafetero - Antioquia;Caldas;17;Marulanda;446
+Región Eje Cafetero - Antioquia;Caldas;17;Neira;486
+Región Eje Cafetero - Antioquia;Caldas;17;Norcasia;495
+Región Eje Cafetero - Antioquia;Caldas;17;Pácora;513
+Región Eje Cafetero - Antioquia;Caldas;17;Palestina;524
+Región Eje Cafetero - Antioquia;Caldas;17;Pensilvania;541
+Región Eje Cafetero - Antioquia;Caldas;17;Riosucio;614
+Región Eje Cafetero - Antioquia;Caldas;17;Risaralda;616
+Región Eje Cafetero - Antioquia;Caldas;17;Salamina;653
+Región Eje Cafetero - Antioquia;Caldas;17;Samaná;662
+Región Eje Cafetero - Antioquia;Caldas;17;San José;665
+Región Eje Cafetero - Antioquia;Caldas;17;Supía;777
+Región Eje Cafetero - Antioquia;Caldas;17;Victoria;867
+Región Eje Cafetero - Antioquia;Caldas;17;Villamaría;873
+Región Eje Cafetero - Antioquia;Caldas;17;Viterbo;877
+Región Eje Cafetero - Antioquia;Quindío;63;Armenia;001
+Región Eje Cafetero - Antioquia;Quindío;63;Buenavista;111
+Región Eje Cafetero - Antioquia;Quindío;63;Calarcá;130
+Región Eje Cafetero - Antioquia;Quindío;63;Circasia;190
+Región Eje Cafetero - Antioquia;Quindío;63;Córdoba;212
+Región Eje Cafetero - Antioquia;Quindío;63;Filandia;272
+Región Eje Cafetero - Antioquia;Quindío;63;Génova;302
+Región Eje Cafetero - Antioquia;Quindío;63;La Tebaida;401
+Región Eje Cafetero - Antioquia;Quindío;63;Montenegro;470
+Región Eje Cafetero - Antioquia;Quindío;63;Pijao;548
+Región Eje Cafetero - Antioquia;Quindío;63;Quimbaya;594
+Región Eje Cafetero - Antioquia;Quindío;63;Salento;690
+Región Eje Cafetero - Antioquia;Risaralda;66;Apía;045
+Región Eje Cafetero - Antioquia;Risaralda;66;Balboa;075
+Región Eje Cafetero - Antioquia;Risaralda;66;Belén de Umbría;088
+Región Eje Cafetero - Antioquia;Risaralda;66;Dosquebradas;170
+Región Eje Cafetero - Antioquia;Risaralda;66;Guática;318
+Región Eje Cafetero - Antioquia;Risaralda;66;La Celia;383
+Región Eje Cafetero - Antioquia;Risaralda;66;La Virginia;400
+Región Eje Cafetero - Antioquia;Risaralda;66;Marsella;440
+Región Eje Cafetero - Antioquia;Risaralda;66;Mistrató;456
+Región Eje Cafetero - Antioquia;Risaralda;66;Pereira;001
+Región Eje Cafetero - Antioquia;Risaralda;66;Pueblo Rico;572
+Región Eje Cafetero - Antioquia;Risaralda;66;Quinchía;594
+Región Eje Cafetero - Antioquia;Risaralda;66;Santa Rosa de Cabal;682
+Región Eje Cafetero - Antioquia;Risaralda;66;Santuario;687
+Región Llano;Arauca;81;Arauca;001
+Región Llano;Arauca;81;Arauquita;065
+Región Llano;Arauca;81;Cravo Norte;220
+Región Llano;Arauca;81;Fortul;300
+Región Llano;Arauca;81;Puerto Rondón;591
+Región Llano;Arauca;81;Saravena;736
+Región Llano;Arauca;81;Tame;794
+Región Llano;Casanare;85;Aguazul;010
+Región Llano;Casanare;85;Chámeza;015
+Región Llano;Casanare;85;Hato Corozal;125
+Región Llano;Casanare;85;La Salina;136
+Región Llano;Casanare;85;Maní;139
+Región Llano;Casanare;85;Monterrey;162
+Región Llano;Casanare;85;Nunchía;225
+Región Llano;Casanare;85;Orocué;230
+Región Llano;Casanare;85;Paz de Ariporo;250
+Región Llano;Casanare;85;Pore;263
+Región Llano;Casanare;85;Recetor;279
+Región Llano;Casanare;85;Sabanalarga;300
+Región Llano;Casanare;85;Sácama;315
+Región Llano;Casanare;85;San Luis de Gaceno;325
+Región Llano;Casanare;85;Támara;400
+Región Llano;Casanare;85;Tauramena;410
+Región Llano;Casanare;85;Trinidad;430
+Región Llano;Casanare;85;Villanueva;440
+Región Llano;Casanare;85;Yopal;001
+Región Llano;Guainía;94;Barranco Minas;343
+Región Llano;Guainía;94;Cacahual;886
+Región Llano;Guainía;94;Inírida;001
+Región Llano;Guainía;94;La Guadalupe;885
+Región Llano;Guainía;94;Mapiripana;663
+Región Llano;Guainía;94;Morichal;888
+Región Llano;Guainía;94;Pana Pana;887
+Región Llano;Guainía;94;Puerto Colombia;884
+Región Llano;Guainía;94;San Felipe;883
+Región Llano;Guaviare;95;Calamar;015
+Región Llano;Guaviare;95;El Retorno;025
+Región Llano;Guaviare;95;Miraflores;200
+Región Llano;Guaviare;95;San José del Guaviare;001
+Región Llano;Meta;50;Acacias;006
+Región Llano;Meta;50;Barranca de Upía;110
+Región Llano;Meta;50;Cabuyaro;124
+Región Llano;Meta;50;Castilla la Nueva;150
+Región Llano;Meta;50;Cubarral;223
+Región Llano;Meta;50;Cumaral;226
+Región Llano;Meta;50;El Calvario;245
+Región Llano;Meta;50;El Castillo;251
+Región Llano;Meta;50;El Dorado;270
+Región Llano;Meta;50;Fuente de Oro;287
+Región Llano;Meta;50;Granada;313
+Región Llano;Meta;50;Guamal;318
+Región Llano;Meta;50;La Macarena;350
+Región Llano;Meta;50;Lejanías;400
+Región Llano;Meta;50;Mapiripán;325
+Región Llano;Meta;50;Mesetas;330
+Región Llano;Meta;50;Puerto Concordia;450
+Región Llano;Meta;50;Puerto Gaitán;568
+Región Llano;Meta;50;Puerto Lleras;577
+Región Llano;Meta;50;Puerto López;573
+Región Llano;Meta;50;Puerto Rico;590
+Región Llano;Meta;50;Restrepo;606
+Región Llano;Meta;50;San Carlos de Guaroa;680
+Región Llano;Meta;50;San Juan de Arama;683
+Región Llano;Meta;50;San Juanito;686
+Región Llano;Meta;50;San Martín;689
+Región Llano;Meta;50;Uribe;370
+Región Llano;Meta;50;Villavicencio;001
+Región Llano;Meta;50;Vista Hermosa;711
+Región Llano;Vaupés;97;Caruru;161
+Región Llano;Vaupés;97;Mitú;001
+Región Llano;Vaupés;97;Pacoa;511
+Región Llano;Vaupés;97;Papunaua;777
+Región Llano;Vaupés;97;Taraira;666
+Región Llano;Vaupés;97;Yavaraté;889
+Región Llano;Vichada;99;Cumaribo;773
+Región Llano;Vichada;99;La Primavera;524
+Región Llano;Vichada;99;Puerto Carreño;001
+Región Llano;Vichada;99;Santa Rosalía;624
+Región Pacífico;Cauca;19;Almaguer;022
+Región Pacífico;Cauca;19;Argelia;050
+Región Pacífico;Cauca;19;Balboa;075
+Región Pacífico;Cauca;19;Bolívar;100
+Región Pacífico;Cauca;19;Buenos Aires;110
+Región Pacífico;Cauca;19;Cajibío;130
+Región Pacífico;Cauca;19;Caldono;137
+Región Pacífico;Cauca;19;Caloto;142
+Región Pacífico;Cauca;19;Corinto;212
+Región Pacífico;Cauca;19;El Tambo;256
+Región Pacífico;Cauca;19;Florencia;290
+Región Pacífico;Cauca;19;Guachené;300
+Región Pacífico;Cauca;19;Guapi;318
+Región Pacífico;Cauca;19;Inzá;355
+Región Pacífico;Cauca;19;Jambaló;364
+Región Pacífico;Cauca;19;La Sierra;392
+Región Pacífico;Cauca;19;La Vega;397
+Región Pacífico;Cauca;19;López;418
+Región Pacífico;Cauca;19;Mercaderes;450
+Región Pacífico;Cauca;19;Miranda;455
+Región Pacífico;Cauca;19;Morales;473
+Región Pacífico;Cauca;19;Padilla;513
+Región Pacífico;Cauca;19;Páez;517
+Región Pacífico;Cauca;19;Patía;532
+Región Pacífico;Cauca;19;Piamonte;533
+Región Pacífico;Cauca;19;Piendamó;548
+Región Pacífico;Cauca;19;Popayán;001
+Región Pacífico;Cauca;19;Puerto Tejada;573
+Región Pacífico;Cauca;19;Puracé;585
+Región Pacífico;Cauca;19;Rosas;622
+Región Pacífico;Cauca;19;San Sebastián;693
+Región Pacífico;Cauca;19;Santa Rosa;701
+Región Pacífico;Cauca;19;Santander de Quilichao;698
+Región Pacífico;Cauca;19;Silvia;743
+Región Pacífico;Cauca;19;Sotara;760
+Región Pacífico;Cauca;19;Suárez;780
+Región Pacífico;Cauca;19;Sucre;785
+Región Pacífico;Cauca;19;Timbío;807
+Región Pacífico;Cauca;19;Timbiquí;809
+Región Pacífico;Cauca;19;Toribio;821
+Región Pacífico;Cauca;19;Totoró;824
+Región Pacífico;Cauca;19;Villa Rica;845
+Región Pacífico;Chocó;27;Acandí;006
+Región Pacífico;Chocó;27;Alto Baudo;025
+Región Pacífico;Chocó;27;Atrato;050
+Región Pacífico;Chocó;27;Bagadó;073
+Región Pacífico;Chocó;27;Bahía Solano;075
+Región Pacífico;Chocó;27;Bajo Baudó;077
+Región Pacífico;Chocó;27;Belén de Bajira;086
+Región Pacífico;Chocó;27;Bojaya;099
+Región Pacífico;Chocó;27;Carmen del Darien;150
+Región Pacífico;Chocó;27;Cértegui;160
+Región Pacífico;Chocó;27;Condoto;205
+Región Pacífico;Chocó;27;El Cantón del San Pablo;135
+Región Pacífico;Chocó;27;El Carmen de Atrato;245
+Región Pacífico;Chocó;27;El Litoral del San Juan;250
+Región Pacífico;Chocó;27;Istmina;361
+Región Pacífico;Chocó;27;Juradó;372
+Región Pacífico;Chocó;27;Lloró;413
+Región Pacífico;Chocó;27;Medio Atrato;425
+Región Pacífico;Chocó;27;Medio Baudó;430
+Región Pacífico;Chocó;27;Medio San Juan;450
+Región Pacífico;Chocó;27;Nóvita;491
+Región Pacífico;Chocó;27;Nuquí;495
+Región Pacífico;Chocó;27;Quibdó;001
+Región Pacífico;Chocó;27;Río Iro;580
+Región Pacífico;Chocó;27;Río Quito;600
+Región Pacífico;Chocó;27;Riosucio;615
+Región Pacífico;Chocó;27;San José del Palmar;660
+Región Pacífico;Chocó;27;Sipí;745
+Región Pacífico;Chocó;27;Tadó;787
+Región Pacífico;Chocó;27;Unguía;800
+Región Pacífico;Chocó;27;Unión Panamericana;810
+Región Pacífico;Nariño;52;Albán;019
+Región Pacífico;Nariño;52;Aldana;022
+Región Pacífico;Nariño;52;Ancuyá;036
+Región Pacífico;Nariño;52;Arboleda;051
+Región Pacífico;Nariño;52;Barbacoas;079
+Región Pacífico;Nariño;52;Belén;083
+Región Pacífico;Nariño;52;Buesaco;110
+Región Pacífico;Nariño;52;Chachagüí;240
+Región Pacífico;Nariño;52;Colón;203
+Región Pacífico;Nariño;52;Consaca;207
+Región Pacífico;Nariño;52;Contadero;210
+Región Pacífico;Nariño;52;Córdoba;215
+Región Pacífico;Nariño;52;Cuaspud;224
+Región Pacífico;Nariño;52;Cumbal;227
+Región Pacífico;Nariño;52;Cumbitara;233
+Región Pacífico;Nariño;52;El Charco;250
+Región Pacífico;Nariño;52;El Peñol;254
+Región Pacífico;Nariño;52;El Rosario;256
+Región Pacífico;Nariño;52;El Tablón de Gómez;258
+Región Pacífico;Nariño;52;El Tambo;260
+Región Pacífico;Nariño;52;Francisco Pizarro;520
+Región Pacífico;Nariño;52;Funes;287
+Región Pacífico;Nariño;52;Guachucal;317
+Región Pacífico;Nariño;52;Guaitarilla;320
+Región Pacífico;Nariño;52;Gualmatán;323
+Región Pacífico;Nariño;52;Iles;352
+Región Pacífico;Nariño;52;Imués;354
+Región Pacífico;Nariño;52;Ipiales;356
+Región Pacífico;Nariño;52;La Cruz;378
+Región Pacífico;Nariño;52;La Florida;381
+Región Pacífico;Nariño;52;La Llanada;385
+Región Pacífico;Nariño;52;La Tola;390
+Región Pacífico;Nariño;52;La Unión;399
+Región Pacífico;Nariño;52;Leiva;405
+Región Pacífico;Nariño;52;Linares;411
+Región Pacífico;Nariño;52;Los Andes;418
+Región Pacífico;Nariño;52;Magüí;427
+Región Pacífico;Nariño;52;Mallama;435
+Región Pacífico;Nariño;52;Mosquera;473
+Región Pacífico;Nariño;52;Nariño;480
+Región Pacífico;Nariño;52;Olaya Herrera;490
+Región Pacífico;Nariño;52;Ospina;506
+Región Pacífico;Nariño;52;Pasto;001
+Región Pacífico;Nariño;52;Policarpa;540
+Región Pacífico;Nariño;52;Potosí;560
+Región Pacífico;Nariño;52;Providencia;565
+Región Pacífico;Nariño;52;Puerres;573
+Región Pacífico;Nariño;52;Pupiales;585
+Región Pacífico;Nariño;52;Ricaurte;612
+Región Pacífico;Nariño;52;Roberto Payán;621
+Región Pacífico;Nariño;52;Samaniego;678
+Región Pacífico;Nariño;52;San Andrés de Tumaco;835
+Región Pacífico;Nariño;52;San Bernardo;685
+Región Pacífico;Nariño;52;San Lorenzo;687
+Región Pacífico;Nariño;52;San Pablo;693
+Región Pacífico;Nariño;52;San Pedro de Cartago;694
+Región Pacífico;Nariño;52;Sandoná;683
+Región Pacífico;Nariño;52;Santa Bárbara;696
+Región Pacífico;Nariño;52;Santacruz;699
+Región Pacífico;Nariño;52;Sapuyes;720
+Región Pacífico;Nariño;52;Taminango;786
+Región Pacífico;Nariño;52;Tangua;788
+Región Pacífico;Nariño;52;Túquerres;838
+Región Pacífico;Nariño;52;Yacuanquer;885
+Región Pacífico;Valle del Cauca;76;Alcalá;020
+Región Pacífico;Valle del Cauca;76;Andalucía;036
+Región Pacífico;Valle del Cauca;76;Ansermanuevo;041
+Región Pacífico;Valle del Cauca;76;Argelia;054
+Región Pacífico;Valle del Cauca;76;Bolívar;100
+Región Pacífico;Valle del Cauca;76;Buenaventura;109
+Región Pacífico;Valle del Cauca;76;Bugalagrande;113
+Región Pacífico;Valle del Cauca;76;Caicedonia;122
+Región Pacífico;Valle del Cauca;76;Cali;001
+Región Pacífico;Valle del Cauca;76;Calima;126
+Región Pacífico;Valle del Cauca;76;Candelaria;130
+Región Pacífico;Valle del Cauca;76;Cartago;147
+Región Pacífico;Valle del Cauca;76;Dagua;233
+Región Pacífico;Valle del Cauca;76;El Águila;243
+Región Pacífico;Valle del Cauca;76;El Cairo;246
+Región Pacífico;Valle del Cauca;76;El Cerrito;248
+Región Pacífico;Valle del Cauca;76;El Dovio;250
+Región Pacífico;Valle del Cauca;76;Florida;275
+Región Pacífico;Valle del Cauca;76;Ginebra;306
+Región Pacífico;Valle del Cauca;76;Guacarí;318
+Región Pacífico;Valle del Cauca;76;Guadalajara de Buga;111
+Región Pacífico;Valle del Cauca;76;Jamundí;364
+Región Pacífico;Valle del Cauca;76;La Cumbre;377
+Región Pacífico;Valle del Cauca;76;La Unión;400
+Región Pacífico;Valle del Cauca;76;La Victoria;403
+Región Pacífico;Valle del Cauca;76;Obando;497
+Región Pacífico;Valle del Cauca;76;Palmira;520
+Región Pacífico;Valle del Cauca;76;Pradera;563
+Región Pacífico;Valle del Cauca;76;Restrepo;606
+Región Pacífico;Valle del Cauca;76;Riofrío;616
+Región Pacífico;Valle del Cauca;76;Roldanillo;622
+Región Pacífico;Valle del Cauca;76;San Pedro;670
+Región Pacífico;Valle del Cauca;76;Sevilla;736
+Región Pacífico;Valle del Cauca;76;Toro;823
+Región Pacífico;Valle del Cauca;76;Trujillo;828
+Región Pacífico;Valle del Cauca;76;Tuluá;834
+Región Pacífico;Valle del Cauca;76;Ulloa;845
+Región Pacífico;Valle del Cauca;76;Versalles;863
+Región Pacífico;Valle del Cauca;76;Vijes;869
+Región Pacífico;Valle del Cauca;76;Yotoco;890
+Región Pacífico;Valle del Cauca;76;Yumbo;892
+Región Pacífico;Valle del Cauca;76;Zarzal;895
